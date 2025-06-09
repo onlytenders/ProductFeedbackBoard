@@ -8,7 +8,7 @@ import EditFeedbackModal from "./components/EditFeedbackModal"
 type View = 'dashboard' | 'list' | 'add'
 
 export default function App() {
-  const { theme, isDark, initializeTheme, toggleTheme } = useThemeStore()
+  const { isDark, initializeTheme, toggleTheme } = useThemeStore()
   const [currentView, setCurrentView] = useState<View>('dashboard')
 
   useEffect(() => {

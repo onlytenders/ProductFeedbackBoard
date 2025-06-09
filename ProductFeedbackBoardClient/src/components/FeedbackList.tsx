@@ -22,7 +22,6 @@ export default function FeedbackList() {
     setSortBy,
     setFilterBy,
     getTotalFeedback,
-    feedback,
     updateFeedback
   } = useFeedbackStore()
   
