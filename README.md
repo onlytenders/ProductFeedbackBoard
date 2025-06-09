@@ -153,5 +153,3 @@ Feel free to fork this project and submit pull requests for any improvements!
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-Built with ❤️ and lots of ☕ by [Your Name]
